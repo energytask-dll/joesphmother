@@ -19,7 +19,7 @@ export default function Home() {
       <Header />
       <Logo />
       <h1 className={defstyles.defaultText}>Home</h1>
-      <div className="flashcard">
+      <div className={defstyles.flashcard}>
         <p className={defstyles.defaultText}>bals</p>
       </div>
       <Footer />
