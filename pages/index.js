@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
     <head>
-        <title>josephmother</title>
+        <title>4flashcards</title>
     </head> 
     <div className={defstyles.dark}>
       <style jsx global>{`
