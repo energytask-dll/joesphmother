@@ -19,7 +19,9 @@ export default function Home() {
       <Header />
       <Logo />
       <h1 className={defstyles.defaultText}>Home</h1>
-      <p className={defstyles.defaultText}>[ Content Deleted ]</p>
+      <div className="flashcard">
+        <p className={defstyles.defaultText}>bals</p>
+      </div>
       <Footer />
     </div></>
   )
