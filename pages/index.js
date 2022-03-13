@@ -20,7 +20,7 @@ export default function Home() {
       <Logo />
       <h1 className={defstyles.defaultText}>Home</h1>
       <div className={defstyles.flashcard}>
-        <p className={defstyles.defaultText}>idk this thing still under construction</p>
+        <p className={defstyles.flashcard-text}>idk this thing still under construction</p>
       </div>
       <Footer />
     </div></>
