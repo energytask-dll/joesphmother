@@ -1,5 +1,4 @@
 import styles from '../styles/Logo.module.css';
-import buttonstyles from '../styles/GlobalStyles.module.css'
 import Image from 'next/image'
 import Link from 'next/link'
 
@@ -10,7 +9,8 @@ export default function Logo() {
                 <Image src="/iconDark.png" width="84" height="64" className={styles.logoMarginned} />
                 &nbsp;<p className={styles.logoText}>4FlashCards.ml</p>
                 <div>
-                    <Link href="/" ><a className={buttonstyles.defaultLinkButton}>🏠 Home</a></Link>
+                    |
+                    <Link href="/" ><a className={styles.defaultLinkButton}>🏠 Home</a></Link>
                 </div>
             </div>
             <hr />
