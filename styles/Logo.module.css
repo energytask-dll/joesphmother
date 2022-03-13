@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Helvetica Neue";
+    src: url(../public/helveticaneue.ttf);
+}
+
+
+.logoContainer {
+    display: flex;
+    margin: 4px;
+    font-size: 24px;
+    font-family:"Helvetica Neue";
+    color: white;
+}
