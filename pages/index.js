@@ -1,8 +1,7 @@
-import Header from '../components/Header'
 import Footer from '../components/Footer'
 import Logo from '../components/Logo'
+import Quote from '../components/Quote'
 import defstyles from '../styles/GlobalStyles.module.css'
-
 
 export default function Home() {
   return (
@@ -18,6 +17,7 @@ export default function Home() {
       </style>
       <Header />
       <Logo />
+      <Quote />
       <h1 className={defstyles.defaultText}>Home</h1>
       <div className={defstyles.flashcard}>
         <p className={defstyles.flashcardtext}>idk this thing still under construction</p>
