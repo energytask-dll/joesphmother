@@ -18,6 +18,7 @@ export default function Home() {
       </style>
       <Header />
       <Logo />
+      <Quote />
       <h1 className={defstyles.defaultText}>Home</h1>
       <div className={defstyles.flashcard}>
         <p className={defstyles.defaultText}>idk this thing still under construction</p>
