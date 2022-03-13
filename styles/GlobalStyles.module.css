@@ -36,6 +36,7 @@
 .defaultLinkButton {
 	box-shadow:inset 0px 0px 4px 0px #3dc21b;
 	background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
+	margin: 5px;
 	background-color:#44c767;
 	border-radius:6px;
 	border:1px solid #18ab29;
