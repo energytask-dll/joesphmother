@@ -9,7 +9,7 @@ export default function Home() {
     <>
     <head>
         <title>josephmother</title>
-    </head>
+    </head> 
     <div className={defstyles.dark}>
       <style jsx global>{`
         body {
@@ -18,7 +18,6 @@ export default function Home() {
       </style>
       <Header />
       <Logo />
-      <Quote />
       <h1 className={defstyles.defaultText}>Home</h1>
       <div className={defstyles.flashcard}>
         <p className={defstyles.defaultText}>idk this thing still under construction</p>
