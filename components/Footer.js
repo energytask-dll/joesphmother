@@ -6,10 +6,8 @@ export default function Footer()
     return (
         <div className={styles.defaultText}>
             <hr />
-            <p>Copyright &copy; 2022 Amongsauce, Inc. All rights not reserved.</p>
-            <p className={styles.comiksand}>Hosted on a Pakistani server in Lahore with 96853ms ping</p>
-            <p><a href="https://www.youtube.com/c/Ragarnoky">YouTube</a> - <a href="https://github.com/Ragarnoky">GitHub</a> - <a href="https://replit.com/@Ragarnoky">Replit</a> </p>
-            <Quote />
+            <p>Copyright &copy; 2022 energytask.dll. No, we will not sue you if you decide to take anything from here because we do not have lawyers because this is a personal site, also we do not give a shit.</p>
+            <p className={styles.comiksand}>powered by Brazilian server on 4000ms ping</p>
         </div>
     )
 }

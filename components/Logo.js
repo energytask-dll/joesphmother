@@ -6,8 +6,9 @@ export default function Logo() {
         <div>
             <div className={styles.logoContainer}>
                 <Image src="/iconDark.png" width="84" height="64" className={styles.logoMarginned} />
-                &nbsp;<p className={styles.logoText}>United States Numbered Highway IX</p>
+                &nbsp;<p className={styles.logoText}>josephmother</p>
             </div>
+            <Quote />
             <hr />
         </div>
     )

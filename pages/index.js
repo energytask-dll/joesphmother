@@ -8,19 +8,19 @@ export default function Home() {
   return (
     <>
     <head>
-        <title>U.S. Route 9</title>
+        <title>josephmother</title>
     </head>
     <div className={defstyles.dark}>
       <style jsx global>{`
         body {
-          background-color: darkred;
+          background-color: #39A254;
         }`}
       </style>
       <Header />
       <Logo />
       <h1 className={defstyles.defaultText}>Home</h1>
       <div className={defstyles.flashcard}>
-        <p className={defstyles.defaultText}>bals</p>
+        <p className={defstyles.defaultText}>idk this thing still under construction</p>
       </div>
       <Footer />
     </div></>

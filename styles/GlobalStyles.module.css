@@ -3,7 +3,7 @@
     src: url(../public/helveticaneue.ttf);
 }
 .dark {
-    background-color: red;
+    background-color: #59D178;
     font-family: "Helvetica Neue";
     color:white;
 }
@@ -23,6 +23,10 @@
 
 .flashcard {
 	width: 300px;
-	border:10px #F8F659;
+	border:10px black;
 	background-color: #FFFD44;
+}
+
+.flashcard-text {
+	color: black;
 }
