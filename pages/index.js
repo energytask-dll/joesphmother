@@ -15,7 +15,6 @@ export default function Home() {
           background-color: #39A254;
         }`}
       </style>
-      <Header />
       <Logo />
       <Quote />
       <h1 className={defstyles.defaultText}>Home</h1>
